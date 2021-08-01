@@ -10,6 +10,8 @@ namespace PizzaAlgo
              * order the pizza
              * pay for the pizza
              * wait for the pizza
+             * tip the driver
+             * eat the pizza
             */
         }
     }
